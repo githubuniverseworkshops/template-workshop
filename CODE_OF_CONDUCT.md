@@ -1,21 +1,21 @@
 
 # Code of Conduct
 
-The GitHub Satellite 2020 Discussion Forum is intended to be a place for questions, feedback and chat related to sessions at the virtual GitHub Satellite 2020 event. This is a civilized place for connecting with other attendees, and Hubbers from across the world taking part in the event. By participating in this community, you are agreeing to the same [Terms of Service](https://help.github.com/articles/github-terms-of-service) that apply to GitHub.com, as well as the GitHub Satellite 2020 Discussion Forum specific Code of Conduct.
+The GitHub Universe 2020 Discussion Forum is intended to be a place for questions, feedback and chat related to sessions at the virtual GitHub Universe 2020 event. This is a civilized place for connecting with other attendees, and Hubbers from across the world taking part in the event. By participating in this community, you are agreeing to the same [Terms of Service](https://help.github.com/articles/github-terms-of-service) that apply to GitHub.com, as well as the GitHub Universe 2020 Discussion Forum specific Code of Conduct.
 
 With this Code of Conduct, we hope to help you understand how best to collaborate in Discussions, what you can expect from moderators, and what type of actions or content may result in temporary or permanent suspension from this project. We will investigate any abuse reports and may moderate public content within the discussion that we determine to be in violation of either the GitHub Terms of Service or this Code of Conduct.
 
-GitHub users worldwide bring wildly different perspectives, ideas, and experiences, and range from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub Satellite a welcoming environment for all the different voices and perspectives here, while maintaining a space where people are free to express themselves.
+GitHub users worldwide bring wildly different perspectives, ideas, and experiences, and range from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub Universe a welcoming environment for all the different voices and perspectives here, while maintaining a space where people are free to express themselves.
 
 
 ### Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in the GitHub Satellite Discussions a harassment-free experience for everyone, regardless of age, body size, ability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in the GitHub Universe Discussions a harassment-free experience for everyone, regardless of age, body size, ability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 
 ### Standards
 
-Treat the GitHub Satellite Discussions with respect. The following are not hard and fast rules, merely aids to the human judgment of our Community. Use these guidelines to keep this a clean, well-lighted place for civilized public discourse.
+Treat the GitHub Universe Discussions with respect. The following are not hard and fast rules, merely aids to the human judgment of our Community. Use these guidelines to keep this a clean, well-lighted place for civilized public discourse.
 
 
 #### _Best Practices for Building a Strong Community_
@@ -49,16 +49,16 @@ This applies to sharing links, as well. Any links shared in the discussions shou
 *   Impersonation. You may not impersonate another person by copying their avatar, posting content under their email address, intentionally using a deceptively similar username or otherwise posing as someone else. Impersonation is a form of harassment.
 *   Doxxing and invasion of privacy. Don't post other people's personal information, such as phone numbers, private email addresses, physical addresses, credit card numbers, Social Security/National Identity numbers, or passwords. Depending on the context, such as in the case of intimidation or harassment, we may consider other information, such as photos or videos that were taken or distributed without the subject's consent, to be an invasion of privacy, especially when such material presents a safety risk to the subject.
 *   Prurient/Sexually explicit content. Basically, don't post pornography. This does not mean that all nudity or sexual content is prohibited. We recognize that sexuality is a part of life and non-pornographic sexual content may be a part of your project, or may be presented for educational or artistic purposes. If you have any questions or concerns about something you want to post, [feel free to reach out and ask](https://support.github.com/contact) beforehand.
-*   Spam. Respect the GitHub Satellite Discussions. Don’t post advertisements, link to spammy websites, or otherwise vandalize the community. This community is meant for GitHub Satellite participants to talk about the sessions, to provide feedback, as questions, learn, and share ideas with one another - not for advertising or other spam-like content. Content that we deem spammy will be removed.
+*   Spam. Respect the GitHub Universe Discussions. Don’t post advertisements, link to spammy websites, or otherwise vandalize the community. This community is meant for GitHub Universe participants to talk about the sessions, to provide feedback, as questions, learn, and share ideas with one another - not for advertising or other spam-like content. Content that we deem spammy will be removed.
 *   Copyrighted or illegal content. Only post your own stuff. You are responsible for what you post. If you post something you didn’t create yourself, you must have the right to post it. You may not post illegal content, including content illegal under copyright and trademark laws, links to illegal content, or methods for circumventing the law.
 *   Active malware or exploits. Being part of this community includes not taking advantage of other members of the community. We do not allow anyone to use our platform for exploit delivery (e.g. Using the community as a means to deliver malicious executables) or as attack infrastructure (e.g. Organizing denial of service attacks or managing command and control servers). Note, however, that we do not prohibit the posting of source code which could be used to develop malware or exploits, as the publication and distribution of such source code has educational value and provides a net benefit to the security community.
 *   Anyone under the age of 13. If you're a child under the age of 13, you may not have an account on GitHub. GitHub does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close both your GitHub.com account. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service](https://help.github.com/articles/github-terms-of-service) for information about account termination.
-*   Other conduct which could reasonably be considered inappropriate in a professional setting. The GitHub Satellite Discussions is a professional space and should be treated as such.
+*   Other conduct which could reasonably be considered inappropriate in a professional setting. The GitHub Universe Discussions is a professional space and should be treated as such.
 
 ### Enforcement
 
 
-#### _What GitHub Satellite Discussions members Can Do_
+#### _What GitHub Universe Discussions members Can Do_
 
 *   If you see a problem, report it. Moderators have special authority; they are responsible for this community. But so are you. With your help, moderators can be community facilitators, not just janitors or police. \
 When you see bad behavior, don’t reply. It encourages the bad behavior by acknowledging it, consumes your energy, and wastes everyone’s time. Just report it by copying a direct link to the reply in question and emailing it to events@github.com
