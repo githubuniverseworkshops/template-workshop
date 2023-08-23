@@ -3,12 +3,26 @@
 
 <p align="center">
   <a href="#mega-prerequisites">Prerequisites</a> •  
-  <a href="#books-resources">Resources</a>
+  <a href="#books-resources">Resources</a> •
+  <a href="#learning-objectives">Learning Objectives</a>
 </p>
 
-> Workshop Description.
+> Please provide a description of your workshop.
+
+- **Who is this for**: TBD
+- **What you'll learn**: TBD
+- **What you'll build**: TBD
+
+## Learning Objectives
+
+In this workshop, you will:
+
+  - learning objective 1
+  - learning objective 2
+  - learning objective 3
 
 ## :mega: Prerequisites
+Before joining the workshop, there are a few items that you will need to install or bring with you.
 - point 1
 - point 2
 
